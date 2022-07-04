@@ -1,0 +1,16 @@
+﻿<Page x:Class="Dietetyka.WidokK"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Dietetyka"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="WidokK">
+
+    <Grid>
+        <Button Content="Plan Jedzenia" HorizontalAlignment="Left" Margin="129,196,0,0" VerticalAlignment="Top" Width="169" Height="83" Click="BtnClickWidokKPlan"/>
+        <Button Content="Czat z Dietetykiem" HorizontalAlignment="Left" Margin="464,196,0,0" VerticalAlignment="Top" Width="169" Height="83" Click="BtnClickWidokKCzat"/>
+
+    </Grid>
+</Page>
