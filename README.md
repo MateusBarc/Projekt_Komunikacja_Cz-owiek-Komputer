@@ -1,0 +1,1 @@
+# Projekt_Komunikacja_Cz-owiek-Komputer
